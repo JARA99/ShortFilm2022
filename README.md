@@ -3,7 +3,7 @@
 **Seed:** 3
 **Prompt:** "2 d top down view of a lovely cottage, seperated game asset, cory loftis, james gilleard, atey ghailan, makoto shinkai, goro fujita, studio ghibli, rim light, exquisite lighting, clear focus, very coherent, plain background, soft painting"
 
-![](20221120031019_00002_3.png)
+![](images/20221120031019_00002_3.png)
 
 **Seed:** 5
 **Prompt:** "2d top down view of a woman cooking in a wooden kitchen and looking out the window thoughtfully, cory loftis, james gilleard, atey ghailan, makoto shinkai, goro fujita, studio ghibli, rim light, exquisite lighting, clear focus, very coherent, soft painting"
