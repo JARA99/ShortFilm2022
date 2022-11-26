@@ -30,9 +30,9 @@ Y así emprendió el viaje de vuelta...
 
 Su hogar la esperaba, y ahora estaba llena de brillo
 
-Su experiencia, su aprendizaje, el conocimiento que adquirió,
+Descubrir las maravillas de la naturaleza junto a personas de diferentes culturas, puntos de vista, etnias y orientación sexual
 
-la ayudaron a generar un cambio.
+La hicieron darse cuenta que la aventura de descubrir y entender nuestro universo la tenemos que hacer todes junetes, sin discriminación ni prejuicios.
 
 Como ella, otros también emprendieron este viaje
 
@@ -41,7 +41,3 @@ Y con el tiempo los problemas, la violencia, la discriminación
 Se difuminaban en un el pasado hasta desaparecer en el color
 
 El color que la joven trajo y que el tiempo esparció.
-
-
-
-
